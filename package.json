@@ -1,0 +1,14 @@
+{
+  "name": "hp-server",
+  "version": "1.0.0",
+  "description": "Servidor de los personajes de harry potter",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Carlos Enrique Tule Uscanga",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
